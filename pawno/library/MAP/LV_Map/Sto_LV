@@ -1,0 +1,136 @@
+new STOLV;
+STOLV = CreateDynamicObject(7526, 1949.031250, 2068.781250, 12.109398, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 301.0); // 4
+SetDynamicObjectMaterial(STOLV, 6, 19962, "samproadsigns", "materialtext1", 0);
+SetDynamicObjectMaterial(STOLV, 3, 3292, "cxrf_payspray", "newindow4", 0);
+SetDynamicObjectMaterial(STOLV, 2, 3292, "cxrf_payspray", "newindow4", 0);
+SetDynamicObjectMaterial(STOLV, 0, 10101, "2notherbuildsfe", "ws_rooftarmac1", 0);
+CreateDynamicObject(3460, 1931.830933, 2051.156982, 13.728689, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 0
+CreateDynamicObject(3460, 1931.830933, 2068.507568, 13.728689, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 0
+STOLV = CreateDynamicObject(19445, 1937.367920, 2050.210449, 9.624881, 0.000000, 360.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 3603, "bevmans01_la", "aamanbev95x", 0);
+STOLV = CreateDynamicObject(19445, 1937.367920, 2059.840332, 9.624881, 0.000000, 360.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 3603, "bevmans01_la", "aamanbev95x", 0);
+STOLV = CreateDynamicObject(19445, 1937.367920, 2040.580688, 9.624881, 0.000000, 360.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 3603, "bevmans01_la", "aamanbev95x", 0);
+STOLV = CreateDynamicObject(19445, 1937.368896, 2037.031128, 9.624881, 0.000000, 360.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 3603, "bevmans01_la", "aamanbev95x", 0);
+STOLV = CreateDynamicObject(19445, 1937.367920, 2069.468506, 9.624881, 0.000000, 360.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 3603, "bevmans01_la", "aamanbev95x", 0);
+STOLV = CreateDynamicObject(3096, 1937.692139, 2068.497803, 14.668675, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 7555, "bballcpark1", "curbyell_64H", 0);
+SetDynamicObjectMaterial(STOLV, 0, 16640, "a51", "banding3_64HV", 0);
+CreateDynamicObject(3460, 1931.830933, 2099.727295, 13.728689, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 0
+STOLV = CreateDynamicObject(19445, 1937.367920, 2079.109131, 9.624881, 0.000000, 360.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 3603, "bevmans01_la", "aamanbev95x", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2048.816406, 14.224880, 0.000000, 90.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2048.816406, 14.224880, 0.000000, 90.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2048.816406, 15.094881, 0.000000, 90.000008, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2058.415527, 14.224880, 0.000000, 90.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2058.415527, 14.224880, 0.000000, 90.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2058.415527, 15.094881, 0.000000, 90.000008, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2040.686279, 14.224880, 0.000000, 90.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2040.686279, 14.224880, 0.000000, 90.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2040.686279, 15.094881, 0.000000, 90.000008, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2068.015381, 14.224880, 0.000000, 90.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2068.015381, 14.224880, 0.000000, 90.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2068.015381, 15.094881, 0.000000, 90.000008, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(18066, 1940.690674, 2052.333252, 13.792836, 90.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 10778, "airportcpark_sfse", "ws_fluorescent2", 0);
+SetDynamicObjectMaterial(STOLV, 0, 1560, "7_11_door", "cj_sheetmetal2", 0);
+STOLV = CreateDynamicObject(18066, 1940.690674, 2042.333252, 13.792836, 90.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 10778, "airportcpark_sfse", "ws_fluorescent2", 0);
+SetDynamicObjectMaterial(STOLV, 0, 1560, "7_11_door", "cj_sheetmetal2", 0);
+STOLV = CreateDynamicObject(18066, 1940.690674, 2062.333252, 13.792836, 90.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 10778, "airportcpark_sfse", "ws_fluorescent2", 0);
+SetDynamicObjectMaterial(STOLV, 0, 1560, "7_11_door", "cj_sheetmetal2", 0);
+STOLV = CreateDynamicObject(19445, 1937.367920, 2088.737793, 9.624881, 0.000000, 360.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 3603, "bevmans01_la", "aamanbev95x", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2077.635010, 14.224880, 0.000000, 90.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2077.635010, 14.224880, 0.000000, 90.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2077.635010, 15.094881, 0.000000, 90.000008, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(18066, 1940.690674, 2072.333252, 13.792836, 90.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 10778, "airportcpark_sfse", "ws_fluorescent2", 0);
+SetDynamicObjectMaterial(STOLV, 0, 1560, "7_11_door", "cj_sheetmetal2", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2087.244629, 14.224880, 0.000000, 90.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2087.244629, 14.224880, 0.000000, 90.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2087.244629, 15.094881, 0.000000, 90.000008, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(18066, 1940.690674, 2082.333252, 13.792836, 90.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 10778, "airportcpark_sfse", "ws_fluorescent2", 0);
+SetDynamicObjectMaterial(STOLV, 0, 1560, "7_11_door", "cj_sheetmetal2", 0);
+STOLV = CreateDynamicObject(19445, 1937.367920, 2098.346191, 9.624881, 0.000000, 360.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 3603, "bevmans01_la", "aamanbev95x", 0);
+STOLV = CreateDynamicObject(18066, 1940.690674, 2092.333252, 13.792836, 90.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 10778, "airportcpark_sfse", "ws_fluorescent2", 0);
+SetDynamicObjectMaterial(STOLV, 0, 1560, "7_11_door", "cj_sheetmetal2", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2096.864258, 14.224880, 0.000000, 90.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2096.864258, 14.224880, 0.000000, 90.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(19445, 1939.538696, 2096.864258, 15.094881, 0.000000, 90.000008, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 7555, "bballcpark1", "curbyell_64H", 0);
+STOLV = CreateDynamicObject(18066, 1946.100464, 2052.333252, 13.792836, 90.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 10778, "airportcpark_sfse", "ws_fluorescent2", 0);
+SetDynamicObjectMaterial(STOLV, 0, 1560, "7_11_door", "cj_sheetmetal2", 0);
+STOLV = CreateDynamicObject(18066, 1946.100464, 2042.333252, 13.792836, 90.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 10778, "airportcpark_sfse", "ws_fluorescent2", 0);
+SetDynamicObjectMaterial(STOLV, 0, 1560, "7_11_door", "cj_sheetmetal2", 0);
+STOLV = CreateDynamicObject(18066, 1946.100464, 2062.333252, 13.792836, 90.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 10778, "airportcpark_sfse", "ws_fluorescent2", 0);
+SetDynamicObjectMaterial(STOLV, 0, 1560, "7_11_door", "cj_sheetmetal2", 0);
+STOLV = CreateDynamicObject(18066, 1946.100464, 2072.333252, 13.792836, 90.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 10778, "airportcpark_sfse", "ws_fluorescent2", 0);
+SetDynamicObjectMaterial(STOLV, 0, 1560, "7_11_door", "cj_sheetmetal2", 0);
+STOLV = CreateDynamicObject(18066, 1946.100464, 2082.333252, 13.792836, 90.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 10778, "airportcpark_sfse", "ws_fluorescent2", 0);
+SetDynamicObjectMaterial(STOLV, 0, 1560, "7_11_door", "cj_sheetmetal2", 0);
+STOLV = CreateDynamicObject(11714, 1949.268311, 2068.724121, 11.248307, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 4552, "ammu_lan2", "corporate1", 0);
+STOLV = CreateDynamicObject(18066, 1946.100464, 2092.333252, 13.792836, 90.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 10778, "airportcpark_sfse", "ws_fluorescent2", 0);
+SetDynamicObjectMaterial(STOLV, 0, 1560, "7_11_door", "cj_sheetmetal2", 0);
+STOLV = CreateDynamicObject(2691, 1957.398682, 2042.184814, 12.179216, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 2464, "rc_shop_acc", "CJ_RC_4", 0);
+STOLV = CreateDynamicObject(2691, 1960.248901, 2042.184814, 12.179216, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 2464, "rc_shop_acc", "CJ_RC_3", 0);
+STOLV = CreateDynamicObject(19445, 1953.969238, 2103.015869, 9.624881, 0.000000, 360.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 3603, "bevmans01_la", "aamanbev95x", 0);
+STOLV = CreateDynamicObject(11714, 1963.818237, 2042.213623, 11.248307, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 4552, "ammu_lan2", "corporate1", 0);
+STOLV = CreateDynamicObject(3096, 1963.803101, 2042.258301, 15.008665, 0.000000, 0.000000, 180.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 7555, "bballcpark1", "curbyell_64H", 0);
+SetDynamicObjectMaterial(STOLV, 0, 16640, "a51", "banding3_64HV", 0);
+CreateDynamicObject(1676, 1961.350098, 2097.197021, 11.539715, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 0
+STOLV = CreateDynamicObject(2691, 1967.339355, 2042.184814, 12.179216, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 2464, "rc_shop_acc", "CJ_RC_2", 0);
+STOLV = CreateDynamicObject(2691, 1970.298706, 2042.184814, 12.179216, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 2464, "rc_shop_acc", "CJ_RC_1", 0);
+STOLV = CreateDynamicObject(19445, 1963.579346, 2103.015869, 9.624881, 0.000000, 360.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 3603, "bevmans01_la", "aamanbev95x", 0);
+STOLV = CreateDynamicObject(19861, 1972.486572, 2048.592285, 12.260880, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 9514, "711_sfw", "sw_sheddoor2", 0);
+STOLV = CreateDynamicObject(19861, 1972.486572, 2056.341553, 12.260880, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 9514, "711_sfw", "sw_sheddoor2", 0);
+CreateDynamicObject(1676, 1968.021240, 2097.197021, 11.539715, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 0
+STOLV = CreateDynamicObject(19445, 1972.731079, 2103.016846, 9.625882, 0.000000, 360.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOLV, 0, 3603, "bevmans01_la", "aamanbev95x", 0);
+STOLV = CreateDynamicObject(4199, 1991.118408, 2047.416992, 11.860446, 0.000000, 0.000000, 180.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOLV, 1, 11301, "carshow_sfse", "concpanel_la", 0);
+SetDynamicObjectMaterial(STOLV, 0, 9514, "711_sfw", "sw_sheddoor2", 0);

@@ -1,0 +1,31 @@
+	CreateDynamic3DTextLabel("Александр\nЛетный инструктор\n{cccccc}Чтобы поговорить нажмите\nALT", COLOR_VALIK, 1664.7694,1433.6664,10.7905, 6.0);
+	CreateDynamic3DTextLabel("Одеть форму пилота\nСнять форму пилота\n\n{cccccc}Чтобы переодеться нажмите на\nALT", COLOR_VALIK,1540.2225,1395.6537,1505.8157, 6.0);
+
+
+CreateDynamic3DTextLabel("Чтобы закончить рейс подойдите к пикапу\n{cccccc} [ ALT ]", COLOR_VALIK, 1864.8660,-2419.5164,13.5547, 6.0);
+
+
+
+
+
+
+
+
+	CreatePickup(1239, 1, 1864.8660,-2419.5164,13.5547); //
+	CreatePickup(1239, 1, 1509.4521,1241.5017,10.8125); // SHAMAL
+	CreatePickup(1239, 1, 1575.9921,1364.5962,10.8654); // NEVADA
+	CreatePickup(1239, 1, 1337.6599,1322.5677,10.8203); // AT400
+	CreatePickup(1239, 1, 1431.4642,1811.7440,10.8203); // ANDROMADA
+	CreatePickup(1239, 1, 1544.7609,1645.7285,10.8203);
+	CreatePickup(1275, 1,1540.2225,1395.6537,1505.8157,-1);
+	CreatePickup(1239, 1,1521.8569,1398.9481,1509.3057,-1);
+	CreateDynamic3DTextLabel("Чтобы получить самолет нажмите\n{cccccc} [ ALT ]", COLOR_VALIK, 1509.4521,1241.5017,10.8125, 6.0);
+	CreateDynamic3DTextLabel("Чтобы получить самолет нажмите\n{cccccc} [ ALT ]", COLOR_VALIK, 1575.9921,1364.5962,10.8654, 6.0);
+	CreateDynamic3DTextLabel("Чтобы получить самолет нажмите\n{cccccc} [ ALT ]", COLOR_VALIK, 1337.6599,1322.5677,10.8203, 6.0);
+	CreateDynamic3DTextLabel("Чтобы получить самолет нажмите\n{cccccc} [ ALT ]", COLOR_VALIK, 1431.4642,1811.7440,10.8203, 6.0);
+	
+	CreatePickup(1239, 1, -1543.9645,-441.2406,6.0000); // SHAMAL
+	CreateDynamic3DTextLabel("Чтобы получить грузовик нажмите\n{cccccc} [ ALT ]", COLOR_VALIK, -1543.9645,-441.2406,6.0000, 6.0);
+
+
+1523.624268, 1353.860718, 10.981483

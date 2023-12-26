@@ -1,0 +1,137 @@
+new STOSF;
+STOSF = CreateDynamicObject(19445, -1781.666748, 1076.894653, 50.655457, 0.000000, 0.000000, 180.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3292, "cxrf_payspray", "newindow4", 0);
+STOSF = CreateDynamicObject(3850, -1781.637451, 1082.123413, 44.935425, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
+STOSF = CreateDynamicObject(3850, -1781.637451, 1085.582642, 44.935425, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
+STOSF = CreateDynamicObject(3850, -1781.637451, 1089.032471, 44.935425, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
+STOSF = CreateDynamicObject(3850, -1779.908081, 1090.763794, 44.935425, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
+STOSF = CreateDynamicObject(19445, -1776.666626, 1082.514771, 50.655457, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3292, "cxrf_payspray", "newindow4", 0);
+STOSF = CreateDynamicObject(19445, -1776.167847, 1080.844727, 48.655495, 0.000000, 90.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(19445, -1775.895020, 1081.546875, 53.556477, 0.000007, 90.000000, 89.999977, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(19445, -1775.895020, 1081.546875, 52.796505, 0.000000, 90.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(3850, -1776.458252, 1090.763794, 44.935425, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
+STOSF = CreateDynamicObject(19479, -1774.289673, 1082.576294, 43.181580, 27.099997, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 4227, "graffiti_lan01", "cleargraf01_LA", 0);
+STOSF = CreateDynamicObject(19479, -1774.289673, 1082.576294, 43.181580, 27.099997, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 4227, "graffiti_lan01", "cleargraf01_LA", 0);
+STOSF = CreateDynamicObject(19479, -1774.289673, 1082.576294, 43.181580, 27.099997, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 4227, "graffiti_lan01", "cleargraf01_LA", 0);
+STOSF = CreateDynamicObject(3850, -1773.017700, 1090.763794, 44.935425, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
+CreateDynamicObject(1226, -1772.278076, 1095.604614, 48.233311, 0.000000, 0.000000, 270.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 0
+STOSF = CreateDynamicObject(19445, -1771.095459, 1081.545898, 53.555477, 0.000007, 90.000000, 89.999977, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(19445, -1771.095459, 1081.545898, 52.795506, 0.000000, 90.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(1319, -1771.072632, 1082.911621, 44.947575, 0.000000, 0.000000, 180.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 16639, "a51_labs", "a51_labwall1", 0);
+STOSF = CreateDynamicObject(19861, -1768.001099, 1082.573608, 46.897049, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 9514, "711_sfw", "sw_sheddoor2", 0);
+STOSF = CreateDynamicObject(19445, -1767.877197, 1082.514771, 50.655457, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOSF, 5, 7555, "bballcpark1", "ws_carparknew2", 0);
+SetDynamicObjectMaterial(STOSF, 0, 3292, "cxrf_payspray", "newindow4", 0);
+STOSF = CreateDynamicObject(19445, -1767.257324, 1080.844727, 48.655495, 0.000000, 90.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(19479, -1766.474121, 1082.576294, 45.490166, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 4227, "graffiti_lan01", "cleargraf01_LA", 0);
+STOSF = CreateDynamicObject(19479, -1766.474121, 1082.576294, 45.490166, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 4227, "graffiti_lan01", "cleargraf01_LA", 0);
+STOSF = CreateDynamicObject(19479, -1766.474121, 1082.576294, 45.490166, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 4227, "graffiti_lan01", "cleargraf01_LA", 0);
+STOSF = CreateDynamicObject(1319, -1764.892212, 1082.911621, 44.947575, 0.000000, 0.000000, 180.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 16639, "a51_labs", "a51_labwall1", 0);
+STOSF = CreateDynamicObject(3850, -1763.248657, 1090.763794, 44.935425, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
+STOSF = CreateDynamicObject(1319, -1761.912598, 1082.911621, 44.947575, 0.000000, 0.000000, 180.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 16639, "a51_labs", "a51_labwall1", 0);
+STOSF = CreateDynamicObject(19445, -1761.466309, 1081.545898, 53.555477, 0.000007, 90.000000, 89.999977, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(19445, -1761.466309, 1081.545898, 52.795506, 0.000000, 90.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(19861, -1758.841553, 1082.573608, 46.897049, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 9514, "711_sfw", "sw_sheddoor2", 0);
+STOSF = CreateDynamicObject(19445, -1758.346924, 1082.514771, 50.655457, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3292, "cxrf_payspray", "newindow4", 0);
+STOSF = CreateDynamicObject(19445, -1758.067627, 1080.844727, 48.655495, 0.000000, 90.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(1319, -1755.722168, 1082.911621, 44.947575, 0.000000, 0.000000, 180.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 16639, "a51_labs", "a51_labwall1", 0);
+STOSF = CreateDynamicObject(19479, -1755.654663, 1082.576294, 44.000168, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 4227, "graffiti_lan01", "cleargraf01_LA", 0);
+STOSF = CreateDynamicObject(19479, -1755.654663, 1082.576294, 44.000168, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 4227, "graffiti_lan01", "cleargraf01_LA", 0);
+STOSF = CreateDynamicObject(19479, -1755.654663, 1082.576294, 44.000168, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 4227, "graffiti_lan01", "cleargraf01_LA", 0);
+STOSF = CreateDynamicObject(3096, -1754.283325, 1083.211304, 53.145206, 0.000000, 33.799980, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 2
+SetDynamicObjectMaterial(STOSF, 1, 19063, "xmasorbs", "sphere", 0);
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(3850, -1754.197998, 1090.763794, 44.935425, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
+STOSF = CreateDynamicObject(1319, -1752.743042, 1082.911621, 44.947575, 0.000000, 0.000000, 180.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 16639, "a51_labs", "a51_labwall1", 0);
+STOSF = CreateDynamicObject(19445, -1751.856812, 1081.545898, 52.795506, 0.000000, 90.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(19445, -1751.856812, 1081.545898, 53.555477, 0.000007, 90.000000, 89.999977, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(19861, -1749.661743, 1082.573608, 46.897049, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 9514, "711_sfw", "sw_sheddoor2", 0);
+STOSF = CreateDynamicObject(19445, -1749.088013, 1082.514771, 50.655457, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3292, "cxrf_payspray", "newindow4", 0);
+STOSF = CreateDynamicObject(1319, -1746.552856, 1082.911621, 44.947575, 0.000000, 0.000000, 180.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 16639, "a51_labs", "a51_labwall1", 0);
+STOSF = CreateDynamicObject(3850, -1744.878784, 1090.763794, 44.935425, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
+STOSF = CreateDynamicObject(19479, -1743.843872, 1082.576294, 45.330170, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 4227, "graffiti_lan01", "cleargraf01_LA", 0);
+STOSF = CreateDynamicObject(19479, -1743.843872, 1082.576294, 45.330170, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 4227, "graffiti_lan01", "cleargraf01_LA", 0);
+STOSF = CreateDynamicObject(19479, -1743.843872, 1082.576294, 45.330170, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 4227, "graffiti_lan01", "cleargraf01_LA", 0);
+STOSF = CreateDynamicObject(1319, -1743.543457, 1082.911621, 44.947575, 0.000000, 0.000000, 180.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 16639, "a51_labs", "a51_labwall1", 0);
+STOSF = CreateDynamicObject(19445, -1742.227295, 1081.545898, 52.795506, 0.000000, 90.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(19445, -1742.227295, 1081.545898, 53.555477, 0.000007, 90.000000, 89.999977, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(19445, -1740.986694, 1080.844727, 48.655495, 0.000000, 90.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(19861, -1740.440674, 1082.573608, 46.897049, 0.000000, 0.000000, 0.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 9514, "711_sfw", "sw_sheddoor2", 0);
+STOSF = CreateDynamicObject(19445, -1739.906494, 1082.514771, 50.655457, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3292, "cxrf_payspray", "newindow4", 0);
+STOSF = CreateDynamicObject(1319, -1737.373291, 1082.911621, 44.947575, 0.000000, 0.000000, 180.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 16639, "a51_labs", "a51_labwall1", 0);
+STOSF = CreateDynamicObject(3850, -1735.487793, 1090.763794, 44.935425, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
+CreateDynamicObject(1226, -1732.967529, 1095.604614, 48.233311, 0.000000, 0.000000, 270.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 0
+STOSF = CreateDynamicObject(19445, -1732.607910, 1081.545898, 52.795506, 0.000000, 90.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(19445, -1732.607910, 1081.545898, 53.555477, 0.000007, 90.000000, 89.999977, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 19523, "sampicons", "reeedgrad32", 0);
+STOSF = CreateDynamicObject(3850, -1732.027954, 1090.763794, 44.935425, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
+STOSF = CreateDynamicObject(11714, -1731.637817, 1082.614624, 45.654121, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 18241, "cw_tempstuffcs_t", "des_metaldoor1", 0);
+STOSF = CreateDynamicObject(19445, -1731.636719, 1082.514771, 47.045456, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3292, "cxrf_payspray", "newindow4", 0);
+STOSF = CreateDynamicObject(19445, -1731.636719, 1082.514771, 43.545441, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3292, "cxrf_payspray", "newindow4", 0);
+STOSF = CreateDynamicObject(19445, -1731.636719, 1082.514771, 50.655457, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3292, "cxrf_payspray", "newindow4", 0);
+STOSF = CreateDynamicObject(3850, -1728.588867, 1090.763794, 44.935425, 0.000000, 0.000000, 90.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
+STOSF = CreateDynamicObject(3850, -1726.867188, 1085.582886, 44.935425, 0.000000, 0.000000, 180.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
+STOSF = CreateDynamicObject(3850, -1726.867188, 1082.133301, 44.935425, 0.000000, 0.000000, 180.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
+STOSF = CreateDynamicObject(3850, -1726.867188, 1089.043579, 44.935425, 0.000000, 0.000000, 180.000000, -1, -1, -1, STREAMER_OBJECT_SD, 180.0); // 1
+SetDynamicObjectMaterial(STOSF, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0);
